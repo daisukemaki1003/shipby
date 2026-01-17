@@ -1,3 +1,8 @@
+---
+title: Privacy Policy
+permalink: /privacy-policy/
+---
+
 # プライバシーポリシー
 
 ## 個人情報の管理
